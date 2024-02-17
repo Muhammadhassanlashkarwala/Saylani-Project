@@ -205,10 +205,13 @@ button {
 .khgfgf{
     gap: 3vw !important;
     justify-content: center;
-    margin-bottom: 10vw;
     border-radius: 10% !important;
+    margin-bottom: 3vw;
 }
-
+.moneuy{
+    margin-left: 6.5%;
+    margin-bottom: 10vw;
+}
 
 /* .pimg1{
     min-height: 100%;
