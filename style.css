@@ -184,17 +184,32 @@ button {
 .kukkkkk {
   margin-top: 1vw;
   display: flex;
-  margin-bottom: 10vw;
+  margin-bottom: 5vw;
 }
 .hassan {
-  margin-left: 20vw;
+  margin-left: 13vw;
+  border-radius: 0.6vw !important;
   border: 1px solid #dadada;
   padding: 2vw;
 }
-.hassan-1{
-    border: 1px solid #dadada;
-    padding: 2vw;
+.hassan-1 {
+  border: 1px solid #dadada;
+  padding: 2vw;
+  border-radius: 0.6vw !important;
 }
+.kihyh{
+    display: flex;
+    gap: 2vw !important;
+   margin-bottom: 2vw;
+}
+.khgfgf{
+    gap: 3vw !important;
+    justify-content: center;
+    margin-bottom: 10vw;
+    border-radius: 10% !important;
+}
+
+
 /* .pimg1{
     min-height: 100%;
     background-image: url(images/nature\ beauty\ One.jpeg);
