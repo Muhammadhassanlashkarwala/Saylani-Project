@@ -1,0 +1,201 @@
+/* html,body{
+    height: 100%;
+    margin: 0;
+    font-size: 16px;
+    font-family: "lato",sans-serif;
+    font-weight: 400;
+    line-height: 1.8em;
+    color: #666;
+
+} */
+.navbar {
+  background: #003b95;
+  height: 60vh;
+  align-items: start !important;
+  color: white !important;
+  position: relative;
+}
+.navbar-brand {
+  margin-left: 6.5%;
+  color: white !important;
+}
+.nav-link {
+  color: white !important;
+}
+button {
+  background-color: white;
+  color: #0a82e9;
+  outline: none;
+  border: none;
+  height: 2.5vw !important;
+  border-radius: 0.3vw !important;
+  font-size: 1vw !important;
+  width: 6vw;
+}
+
+.nav-item img {
+  border-radius: 50%;
+  width: 30px;
+}
+.Buttons {
+  margin-top: 5vw;
+  position: absolute;
+  left: 7%;
+  color: white;
+  outline: white !important;
+  border-radius: 2vw !important;
+  width: 7vw;
+  padding-left: 1.8vw;
+  padding-top: 0.5vw;
+  border: 1px solid white;
+  height: 3vw;
+}
+.Buttons-2 {
+  margin-top: 5vw;
+  position: absolute;
+  left: 15%;
+  color: white;
+  outline: white !important;
+  border-radius: 2vw !important;
+  width: 7vw;
+  padding-left: 1.8vw;
+  padding-top: 0.5vw;
+  height: 3vw;
+}
+.Buttons-3 {
+  margin-top: 5vw;
+  position: absolute;
+  left: 23%;
+  color: white;
+  outline: white !important;
+  border-radius: 2vw !important;
+  width: 7vw;
+  padding-left: 1vw;
+  padding-top: 0.5vw;
+  /* border: 1px solid white; */
+  height: 3vw;
+}
+.Buttons-4 {
+  margin-top: 5vw;
+  position: absolute;
+  left: 31%;
+  color: white;
+  outline: white !important;
+  border-radius: 2vw !important;
+  width: 7vw;
+  padding-left: 0.8vw;
+  padding-top: 0.5vw;
+  /* border: 1px solid white; */
+  height: 3vw;
+}
+.Buttons-5 {
+  margin-top: 5vw;
+  position: absolute;
+  left: 39%;
+  color: white;
+  outline: white !important;
+  border-radius: 2vw !important;
+  width: 7vw;
+  /* font-size: 1vw; */
+  padding-left: 1vw;
+  padding-top: 0.5vw;
+  /* border: 1px solid white; */
+  height: 3vw;
+}
+.Buttons-5:hover {
+  background: white;
+  color: #0a82e9;
+}
+.Buttons-4:hover {
+  background: white;
+  color: #0a82e9;
+}
+.Buttons-3:hover {
+  background: white;
+  color: #0a82e9;
+}
+.Buttons-2:hover {
+  background: white;
+  color: #0a82e9;
+}
+.paraaa {
+  position: absolute;
+  top: 50%;
+  margin-left: 6.5%;
+}
+.paraaa h1 {
+  font-weight: 700 !important;
+  font-size: 4vw;
+}
+.inputs {
+  position: absolute;
+  top: 90%;
+  margin-left: 6.5%;
+}
+.inputs .input-1 {
+  height: 5vw;
+  padding: 20px;
+  border: 3px solid #ffbb0f;
+  outline: none;
+  border-radius: 0.6vw;
+  padding-left: 10%;
+}
+.input-1::placeholder {
+  color: black;
+}
+.inputs .input-2 {
+  height: 5vw;
+  padding: 20px;
+  border: 3px solid #ffbb0f;
+  outline: none;
+  border-radius: 0.6vw;
+  padding-left: 10%;
+}
+.input-2::placeholder {
+  color: black;
+}
+.inputs .input-3 {
+  height: 5vw;
+  padding: 20px;
+  border: 3px solid #ffbb0f;
+  outline: none;
+  border-radius: 0.6vw;
+  padding-left: 10%;
+}
+.input-3::placeholder {
+  color: black;
+}
+.inputs button {
+  height: 4.8vw !important;
+  width: 13vw !important;
+  padding: 1vw 2vw 2vw 2vw;
+  font-size: 1.4vw !important;
+  border: 3px solid #ffbb0f;
+  border-radius: 0.6vw !important;
+  outline: none;
+
+  background: #0a82e9;
+  color: white;
+}
+.Second-paraaa {
+  margin-top: 7vw;
+  margin-left: 6.5%;
+}
+.kukkkkk {
+  margin-top: 1vw;
+  display: flex;
+  margin-bottom: 10vw;
+}
+.hassan {
+  margin-left: 20vw;
+  border: 1px solid #dadada;
+  padding: 2vw;
+}
+.hassan-1{
+    border: 1px solid #dadada;
+    padding: 2vw;
+}
+/* .pimg1{
+    min-height: 100%;
+    background-image: url(images/nature\ beauty\ One.jpeg);
+} */
